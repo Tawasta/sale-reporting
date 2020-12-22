@@ -1,4 +1,4 @@
-# MIGRATED TO https://gitlab.com/tawasta/odoo/partner !
+# MIGRATED TO https://gitlab.com/tawasta/odoo/sale-reporting !
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Build Status](https://travis-ci.org/Tawasta/sale-reporting.svg?branch=12.0)](https://travis-ci.org/Tawasta/sale-reporting)
